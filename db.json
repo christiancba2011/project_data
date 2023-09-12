@@ -1,53 +1,141 @@
 {
     "videos":[
     
-    {
-    "titulo": "Happy 76th Birthday Tina Turner!",
-    "linkVideo": "https://www.youtube.com/watch?v=r16UkiI5wjY",
-    "linkImage": "https://i.ytimg.com/vi/r16UkiI5wjY/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAEg2IbKmQNKDoXYd7xcFRVKT2VIg",
-    "categoria": "Musica",
-    "descripcion": "You're Simply the Best!",
-    "codigoSeguridad": "123",
-    "id": 2
-    },
-    
-    {
-    "titulo": "Tina Turner - What's Love Got To Do With It (Official Music Video)",
-    "linkVideo": "https://www.youtube.com/watch?v=oGpFcHTxjZs&pp=ygULdGluYSB0dXJuZXI%3D",
-    "linkImage": "https://i.ytimg.com/vi/oGpFcHTxjZs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVB7YY82i4o-h34S5AHZ0AyNAUTw",
-    "categoria": "Musica",
-    "descripcion": "tina turner video",
-    "codigoSeguridad": "100",
-    "id": 4
-    },
-   
-    {
-    "titulo": "Bon Jovi - Livin' On A Prayer",
-    "linkVideo": "https://youtu.be/lDK9QqIzhwk",
-    "linkImage": "https://i.ytimg.com/vi/lDK9QqIzhwk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAMcrYeC56yRDEu4dl8THA6a9TG1A",
-    "categoria": "Rock 80s",
-    "descripcion": "Music video by Bon Jovi performing Livin' On A Prayer. (C) 1986 The Island Def Jam Music Group",
-    "codigoSeguridad": "123",
-    "id": 8
-    },
-    {
-    "titulo": "Bon Jovi - You Give Love A Bad Name (Official Music Video)",
-    "linkVideo": "https://youtu.be/KrZHPOeOxQQ",
-    "linkImage": "https://i.ytimg.com/vi/KrZHPOeOxQQ/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBch8kMcy9M8jKNqSu_OMg-AhRVRg",
-    "categoria": "Rock 80s",
-    "descripcion": "Music video by Bon Jovi performing You Give Love A Bad Name. (C) 1986 The Island Def Jam Music Group",
-    "codigoSeguridad": "123",
-    "id": 9
-    },
-    {
-        "titulo": "Fito Paez - Brillante Sobre El Mic (En Vivo)",
-        "linkVideo": "https://www.youtube.com/watch?v=zhV7uhM_Tvg&pp=ygUsZml0byBwYWV6IC0gYnJpbGxhbnRlIHNvYnJlIGVsIG1pYyAoZW4gdml2byk%3D",
-        "linkImage": "https://i.ytimg.com/vi/zhV7uhM_Tvg/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD_vlF1lar7VMZTid4QX1hn3nBMsw",
-        "categoria": "Rock Nacional",
-        "descripcion": "Grabado en vivo el 13 de octubre de 2012 en el Planetario ",
-        "codigoSeguridad": "116",
-        "id": 10
-        }
+        {
+            "titulo": "Happy 76th Birthday Tina Turner!",
+            "linkVideo": "https://www.youtube.com/watch?v=r16UkiI5wjY",
+            "linkImage": "https://i.ytimg.com/vi/r16UkiI5wjY/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAEg2IbKmQNKDoXYd7xcFRVKT2VIg",
+            "categoria": "Musica",
+            "descripcion": "You're Simply the Best!",
+            "codigoSeguridad": "123",
+            "id": 2
+            },
+            {
+            "titulo": "What's Love Got To Do With It",
+            "linkVideo": "https://www.youtube.com/watch?v=oGpFcHTxjZs&pp=ygULdGluYSB0dXJuZXI%3D",
+            "linkImage": "https://i.ytimg.com/vi/oGpFcHTxjZs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVB7YY82i4o-h34S5AHZ0AyNAUTw",
+            "categoria": "Musica",
+            "descripcion": "Tina Turner video",
+            "codigoSeguridad": "100",
+            "id": 4
+            },
+            {
+            "titulo": "Bon Jovi - Livin' On A Prayer",
+            "linkVideo": "https://youtu.be/lDK9QqIzhwk",
+            "linkImage": "https://i.ytimg.com/vi/lDK9QqIzhwk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAMcrYeC56yRDEu4dl8THA6a9TG1A",
+            "categoria": "Rock 80s",
+            "descripcion": "Music video by Bon Jovi performing Livin' On A Prayer. (C) 1986 The Island Def Jam Music Group",
+            "codigoSeguridad": "123",
+            "id": 8
+            },
+            {
+            "titulo": "Bon Jovi - You Give Love A Bad Name",
+            "linkVideo": "https://youtu.be/KrZHPOeOxQQ",
+            "linkImage": "https://i.ytimg.com/vi/KrZHPOeOxQQ/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBch8kMcy9M8jKNqSu_OMg-AhRVRg",
+            "categoria": "Rock 80s",
+            "descripcion": "Music video by Bon Jovi performing You Give Love A Bad Name. (C) 1986",
+            "codigoSeguridad": "123",
+            "id": 9
+            },
+            {
+            "titulo": "Fito Paez - Brillante Sobre El Mic",
+            "linkVideo": "https://www.youtube.com/watch?v=zhV7uhM_Tvg&pp=ygUsZml0byBwYWV6IC0gYnJpbGxhbnRlIHNvYnJlIGVsIG1pYyAoZW4gdml2byk%3D",
+            "linkImage": "https://i.ytimg.com/vi/zhV7uhM_Tvg/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD_vlF1lar7VMZTid4QX1hn3nBMsw",
+            "categoria": "Rock Nacional",
+            "descripcion": "Grabado en vivo el 13 de octubre de 2012 en el Planetario ",
+            "codigoSeguridad": "116",
+            "id": 10
+            },
+            {
+            "titulo": "War Machine Live 4K",
+            "linkVideo": "https://youtu.be/OMXh3oZ7Aoo",
+            "linkImage": "https://i.ytimg.com/vi/OMXh3oZ7Aoo/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB1AaAAuADigIMCAAQARh_ICIoPjAP&rs=AOn4CLCS6lfx6Vfa9Yq1NdwX7mqB-hMxEg",
+            "categoria": "Hard rock",
+            "descripcion": "You Wanted the Best, You Got the Best!!",
+            "codigoSeguridad": "114",
+            "id": 11
+            },
+            {
+            "titulo": "Kiss - Forever",
+            "linkVideo": "https://youtu.be/d_RKO5ozLVo",
+            "linkImage": "https://i.ytimg.com/vi/d_RKO5ozLVo/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLB5iSPLE12JzaHIjxC2w5UEa5hziQ",
+            "categoria": "Hard rock",
+            "descripcion": "You Wanted the Best, You Got the Best!!",
+            "codigoSeguridad": "114",
+            "id": 12
+            },
+            {
+            "titulo": "Kiss - Psycho Circus",
+            "linkVideo": "https://youtu.be/BWIW6Ti0PbE",
+            "linkImage": "https://i.ytimg.com/vi/BWIW6Ti0PbE/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCtdNYz88aX1qD6MvT2T1FABrzapw",
+            "categoria": "Hard rock",
+            "descripcion": "You Wanted the Best, You Got the Best!!",
+            "codigoSeguridad": "114",
+            "id": 13
+            },
+            {
+            "titulo": "KISS ACÚSTICO COMPLETO - MTV",
+            "linkVideo": "https://youtu.be/G0Th_I1HdlQ",
+            "linkImage": "https://i.ytimg.com/vi/G0Th_I1HdlQ/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAtAFigIMCAAQARgsICgofzAP&rs=AOn4CLDuDN9QSWuYH79VI1wsCPubDRU_FA",
+            "categoria": "Hard rock",
+            "descripcion": "You Wanted the Best, You Got the Best!!",
+            "codigoSeguridad": "114",
+            "id": 14
+            },
+            {
+            "titulo": "I Was Made for Lovin' You Live 4K\"",
+            "linkVideo": "https://youtu.be/jhorQPIiAEk",
+            "linkImage": "https://i.ytimg.com/vi/jhorQPIiAEk/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAtAFigIMCAAQARhjICcofzAP&rs=AOn4CLC4RLtZcXzN-WFFhOK3SnbBIEP-2w",
+            "categoria": "Hard rock",
+            "descripcion": "You Wanted the Best, You Got the Best!!",
+            "codigoSeguridad": "114",
+            "id": 15
+            },
+            {
+                "titulo": "Kiss - Rock And Roll All Nite ",
+                "linkVideo": "https://youtu.be/67KkjVMllS0",
+                "linkImage": "https://i.ytimg.com/vi/67KkjVMllS0/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAkemKb-ZcXWU2r4PIbC7AwwPSbOw",
+                "categoria": "Hard rock",
+                "descripcion": "You Wanted the Best, You Got the Best!!",
+                "codigoSeguridad": "114",
+                "id": 16
+            },
+            {
+                "titulo": "KISS Buenos Aires,Argentina-April 5, 2009 ",
+                "linkVideo": "https://youtu.be/EdgkxhMsd40",
+                "linkImage": "https://i.ytimg.com/vi/EdgkxhMsd40/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAtAFigIMCAAQARhlIEkoUzAP&rs=AOn4CLCAXXTvJJP5G-R3fwY4Z-E0ec6UHw",
+                "categoria": "Hard rock",
+                "descripcion": "You Wanted the Best, You Got the Best!!",
+                "codigoSeguridad": "114",
+                "id": 17
+            },
+            {
+                "titulo": "Whitesnake - Fool for your loving",
+                "linkVideo": "https://youtu.be/SA-DgUfSRmk",
+                "linkImage": "https://i.ytimg.com/vi/SA-DgUfSRmk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBPvtnP11HydX3Ksr1GvSuNs1P9Ag",
+                "categoria": "Rock 80s",
+                "descripcion": "Whitesnake en vivo en Londres (2004)",
+                "codigoSeguridad": "114",
+                "id": 18
+            },
+            {
+                "titulo": "Tina Turner-Steamy Windows",
+                "linkVideo": "https://youtu.be/aGJBbu7mgOc",
+                "linkImage": "https://i.ytimg.com/vi/aGJBbu7mgOc/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAtAFigIMCAAQARh_IEYoEzAP&rs=AOn4CLBLfTT6-AUpvmE7gaw1hBcbNDQe8g",
+                "categoria": "Musica",
+                "descripcion": "Live Gelredome Arnhem Holland",
+                "codigoSeguridad": "123",
+                "id": 19
+            },
+            {
+                "titulo": "Tina Turner & Eros Ramazzotti",
+                "linkVideo": "https://youtu.be/aGJBbu7mgOc",
+                "linkImage": "https://i.ytimg.com/vi/aGJBbu7mgOc/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAtAFigIMCAAQARh_IEYoEzAP&rs=AOn4CLBLfTT6-AUpvmE7gaw1hBcbNDQe8g",
+                "categoria": "Musica",
+                "descripcion": "Cose Della Vita - Live Munich 1998",
+                "codigoSeguridad": "123",
+                "id": 20
+            }
     ],
     "categorias":[
         
@@ -61,7 +149,7 @@
         {
         "nombre": "Rock 80s",
         "descripcion": "La mejor Musica de los 80s ",
-        "color": "#067389",
+        "color": "#689112",
         "codigoSeguridad": "115",
         "id": 3
         },
@@ -71,6 +159,13 @@
             "color": "#db4848",
             "codigoSeguridad": "116",
             "id": 4
+        },
+        {
+            "nombre": "Hard rock",
+            "descripcion": "La Mejor Banda del Mundo",
+            "color": "#F1A00C",
+            "codigoSeguridad": "114",
+            "id": 5
         }
     ]
 }
