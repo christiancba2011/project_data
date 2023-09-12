@@ -50,13 +50,7 @@
         }
     ],
     "categorias":[
-        {
-        "nombre": "Cursos Programación",
-        "descripcion": "aprender",
-        "color": "#2552ad",
-        "codigoSeguridad": "123",
-        "id": 1
-        },
+        
         {
         "nombre": "Musica",
         "descripcion": "videos musicales",
