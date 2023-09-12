@@ -130,12 +130,57 @@
             {
                 "titulo": "Tina Turner & Eros Ramazzotti",
                 "linkVideo": "https://youtu.be/aGJBbu7mgOc",
-                "linkImage": "https://i.ytimg.com/vi/aGJBbu7mgOc/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAtAFigIMCAAQARh_IEYoEzAP&rs=AOn4CLBLfTT6-AUpvmE7gaw1hBcbNDQe8g",
+                "linkImage": "https://i.ytimg.com/vi/ko7qunEkmzE/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBZv-JiA0wJ2gp-iZ-Gb2y53dQ_kQ",
                 "categoria": "Musica",
                 "descripcion": "Cose Della Vita - Live Munich 1998",
                 "codigoSeguridad": "123",
                 "id": 20
-            }
+                },
+                {
+                "titulo": "AC/DC - Highway to Hell",
+                "linkVideo": "https://youtu.be/gEPmA3USJdI",
+                "linkImage": "https://i.ytimg.com/vi/gEPmA3USJdI/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDSKqymjhliggDBMcbNElVdTJA58w",
+                "categoria": "Rock 80s",
+                "descripcion": "Highway to Hell\" Live At River Plate, December 2009",
+                "codigoSeguridad": "114",
+                "id": 21
+                },
+                {
+                "titulo": "AC/DC - Back In Black  - Live at River Plate",
+                "linkVideo": "https://youtu.be/j5rGm3kdTuk",
+                "linkImage": "https://i.ytimg.com/vi/j5rGm3kdTuk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBxUUyyUis5V7D2aaVcf0fkHayurQ",
+                "categoria": "Rock 80s",
+                "descripcion": "Back In Black\" by AC/DC live at River Plate",
+                "codigoSeguridad": "114",
+                "id": 22
+                },
+                {
+                "titulo": "QUEEN - Bohemian Rhapsody (Live) (HD) ",
+                "linkVideo": "https://youtu.be/NNaLax4T-oM",
+                "linkImage": "https://i.ytimg.com/vi/NNaLax4T-oM/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAtAFigIMCAAQARhyIEwoNjAP&rs=AOn4CLDcxzQIVk-i7bDHLzb-mLUsFkLZ3Q",
+                "categoria": "Rock 80s",
+                "descripcion": "El concierto homenaje a Freddie Mercury ",
+                "codigoSeguridad": "114",
+                "id": 23
+                },
+                {
+                "titulo": "QUEEN  LIVE AID 1985",
+                "linkVideo": "https://youtu.be/aBw-7xydYd8",
+                "linkImage": "https://i.ytimg.com/vi/aBw-7xydYd8/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD9aB3Zu5j5UkA3fGj7wr4e8zDvcg",
+                "categoria": "Rock 80s",
+                "descripcion": "Live Aid fue el primer concierto benéfico que llegó al mundo. El 13 de julio de 1985,",
+                "codigoSeguridad": "114",
+                "id": 24
+                },
+                {
+                "titulo": "Miguel Mateos - Perdiendo el Control",
+                "linkVideo": "https://youtu.be/NyeY0ca6vUM",
+                "linkImage": "https://i.ytimg.com/vi/NyeY0ca6vUM/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDFxsxhRei_e1FgY3L1TrCKSRoxgQ",
+                "categoria": "Rock Nacional",
+                "descripcion": "Reconocimiento a la trayectoria de Miguel Mateos \"como uno de los máximos referentes del rock nacional",
+                "codigoSeguridad": "110",
+                "id": 25
+                }
     ],
     "categorias":[
         
