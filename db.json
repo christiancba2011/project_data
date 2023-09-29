@@ -225,6 +225,15 @@
                         "descripcion": "Encuentro en el Estudio con Rata Blanca Programa Completo",
                         "codigoSeguridad": "114",
                         "id": 30
+                    },
+                    {
+                        "titulo": "La Renga - En Vivo en Barcelona",
+                        "linkVideo": "https://www.youtube.com/watch?v=84pr3vy2_RA&pp=ygUITEEgUkVOR0E%3D",
+                        "linkImage": "https://i.ytimg.com/vi/84pr3vy2_RA/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAtAFigIMCAAQARh_ICYoHzAP&rs=AOn4CLBUZ-H2TW1zx2cH9pPb95kB6h9LOA",
+                        "categoria": "Rock Nacional",
+                        "descripcion": "La Renga - En Vivo desde Barcelona, España",
+                        "codigoSeguridad": "114",
+                        "id": 31
                     }
                     
     ],
