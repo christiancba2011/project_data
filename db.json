@@ -5,7 +5,7 @@
             "titulo": "Happy 76th Birthday Tina Turner!",
             "linkVideo": "https://www.youtube.com/watch?v=r16UkiI5wjY",
             "linkImage": "https://i.ytimg.com/vi/r16UkiI5wjY/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAEg2IbKmQNKDoXYd7xcFRVKT2VIg",
-            "categoria": "Musica",
+            "categoria": "Tina",
             "descripcion": "You're Simply the Best!",
             "codigoSeguridad": "123",
             "id": 2
@@ -14,7 +14,7 @@
             "titulo": "What's Love Got To Do With It",
             "linkVideo": "https://www.youtube.com/watch?v=oGpFcHTxjZs&pp=ygULdGluYSB0dXJuZXI%3D",
             "linkImage": "https://i.ytimg.com/vi/oGpFcHTxjZs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVB7YY82i4o-h34S5AHZ0AyNAUTw",
-            "categoria": "Musica",
+            "categoria": "Tina",
             "descripcion": "Tina Turner video",
             "codigoSeguridad": "100",
             "id": 4
@@ -122,7 +122,7 @@
                 "titulo": "Tina Turner-Steamy Windows",
                 "linkVideo": "https://youtu.be/aGJBbu7mgOc",
                 "linkImage": "https://i.ytimg.com/vi/aGJBbu7mgOc/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAtAFigIMCAAQARh_IEYoEzAP&rs=AOn4CLBLfTT6-AUpvmE7gaw1hBcbNDQe8g",
-                "categoria": "Musica",
+                "categoria": "Tina",
                 "descripcion": "Live Gelredome Arnhem Holland",
                 "codigoSeguridad": "123",
                 "id": 19
@@ -131,7 +131,7 @@
                 "titulo": "Tina Turner & Eros Ramazzotti",
                 "linkVideo": "https://youtu.be/aGJBbu7mgOc",
                 "linkImage": "https://i.ytimg.com/vi/ko7qunEkmzE/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBZv-JiA0wJ2gp-iZ-Gb2y53dQ_kQ",
-                "categoria": "Musica",
+                "categoria": "Tina",
                 "descripcion": "Cose Della Vita - Live Munich 1998",
                 "codigoSeguridad": "123",
                 "id": 20
@@ -240,7 +240,7 @@
     "categorias":[
         
         {
-        "nombre": "Musica",
+        "nombre": "Tina",
         "descripcion": "videos musicales",
         "color": "#0d7a82",
         "codigoSeguridad": "100",
