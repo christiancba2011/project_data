@@ -184,7 +184,7 @@
                 {
                     "titulo": "Miguel Mateos Música en el Salón Blanco.",
                     "linkVideo": "https://www.youtube.com/watch?v=DqKxcU-5RlU&t=703s",
-                    "linkImage": "https://i.ytimg.com/an_webp/CjveFAceWJo/mqdefault_6s.webp?du=3000&sqp=CKjf3KgG&rs=AOn4CLBOrMAY7VVlV4KUkegt0T-ijB-lbA",
+                    "linkImage": "https://i.ytimg.com/vi/DqKxcU-5RlU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBzJDd_mCJYRuLSoaBrpLwVk7tnKQ",
                     "categoria": "Rock Nacional",
                     "descripcion": "Esta presentación fue un reconocimiento a la trayectoria de Miguel Mateos \"como uno de los máximos referentes del rock nacional.",
                     "codigoSeguridad": "114",
@@ -234,6 +234,15 @@
                         "descripcion": "La Renga - En Vivo desde Barcelona, España",
                         "codigoSeguridad": "114",
                         "id": 31
+                    },
+                    {
+                        "titulo": "Bon Jovi - Wanted Dead Or Alive",
+                        "linkVideo": "https://youtu.be/SRvCvsRp5ho",
+                        "linkImage": "https://i.ytimg.com/vi/SRvCvsRp5ho/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAj3N89AXcfT-OBAK11G49Fc-BwQw",
+                        "categoria": "Rock 80s",
+                        "descripcion": "Music video by Bon Jovi performing Wanted Dead Or Alive. (C) 2003",
+                        "codigoSeguridad": "114",
+                        "id": 32
                     }
                     
     ],
