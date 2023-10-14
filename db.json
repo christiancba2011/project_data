@@ -243,6 +243,15 @@
                         "descripcion": "Music video by Bon Jovi performing Wanted Dead Or Alive. (C) 2003",
                         "codigoSeguridad": "114",
                         "id": 32
+                    },
+                    {
+                        "titulo": "David Kushner - Daylight",
+                        "linkVideo": "https://youtu.be/MoN9ql6Yymw",
+                        "linkImage": "https://i.ytimg.com/vi/MoN9ql6Yymw/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBEn6dsHrc0hkPwHv_Gq6F5Fa6Ekw",
+                        "categoria": "Música 2023",
+                        "descripcion": "“Daylight” out now on all platforms: https://davidkushner.lnk.to/daylight",
+                        "codigoSeguridad": "114",
+                        "id": 33
                     }
                     
     ],
